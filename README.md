@@ -9,7 +9,7 @@ The best definition of a fractal is known as a never-ending pattern. These infin
 
 These equations are shown within this project and described through C++ algorithms.
 
-[Triangle](http://fractalfoundation.wolfesongs.com/wp-content/uploads/2009/01/sierpinski-zoom41.gif)
+![Triangle](http://fractalfoundation.wolfesongs.com/wp-content/uploads/2009/01/sierpinski-zoom41.gif)
 
 
 ### Sierpinski's Carpet
@@ -20,7 +20,7 @@ Start with a solid (filled) square C(0). Divide this into 9 smaller congruent sq
 
 The Sierpinski carpet is the intersection of all the sets in this sequence, that is, the set of points that remain after this construction is repeated infinitely often. The figures below show the first four iterations. The squares in red denote some of the smaller congruent squares used in the construction. 
 
-[Illustration](http://larryriddle.agnesscott.org/ifs/carpet/carpet.gif)
+![Illustration](http://larryriddle.agnesscott.org/ifs/carpet/carpet.gif)
 
 ### Special Properties 
 
